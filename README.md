@@ -3,7 +3,7 @@ A little project for Comparative Genomics class.
 
 The task was to calculate shapes of rooted unlabeled binary trees of given leaf count.
 
-I thought it was a fun assignment, because I could abuse Python sets with to allowing trees to be hashed.
+I thought it was a fun assignment, because I could abuse Python sets with hashable tree classes.
 
 The algorithm is explained in the docstrings. Takes exponential time sadly.
 
